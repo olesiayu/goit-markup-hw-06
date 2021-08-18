@@ -490,6 +490,7 @@ address {
   background-color: var(--hero-button-focus-bg-color);
 }
 .send-icon {
+  fill: var(--primary-white-color);
   margin-left: 10px;
   vertical-align: middle;
 }
